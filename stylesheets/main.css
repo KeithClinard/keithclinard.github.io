@@ -50,6 +50,10 @@ footer .container {
   justify-content: space-between;
 }
 
-footer .neon.logo {
+.copyright {
+  align-self: center;
+}
+
+.neon.logo {
   box-shadow: 0 0 5px 2px #000;
 }
