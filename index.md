@@ -3,10 +3,6 @@ title: ""
 layout: default
 ---
 
-## About Me
+## Under Construction
 
-I'm a developer working for [Knoxville Utilities Board](https://www.kub.org/).
-
-I have a strong passion for architecture and automation.
-
-You won't find me on social media.
+> Come back later
